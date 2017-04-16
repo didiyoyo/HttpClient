@@ -1,0 +1,5 @@
+E:\HttpClient\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.exe.config
+E:\HttpClient\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.exe
+E:\HttpClient\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.pdb
+E:\HttpClient\HttpClientTest\HttpClientTest\obj\Debug\HttpClientTest.exe
+E:\HttpClient\HttpClientTest\HttpClientTest\obj\Debug\HttpClientTest.pdb
